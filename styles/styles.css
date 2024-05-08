@@ -1,0 +1,369 @@
+
+
+.header {
+    background-image: url(../assets/bannerimage.png);
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-size: contain;
+    height: 600px;
+    width: 1320px;
+    margin: 50px 140px 140px 50px;
+}
+
+.new-year {
+    color: #FFF;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Merriweather;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.celebration {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.happy-new-year {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}
+
+.holiday-deals {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.party-section {
+    background-image: url(../assets/vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 100px;
+}
+
+.party-banner {
+
+    padding: 90px 30px 0px 138px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.party-banner .profile-pic {
+    width: 200px;
+    height: 300px;
+    
+}
+
+.welcome-to {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+.midnight-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.party-description {
+    color: #FFF;
+    margin-right: 40px;
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.join {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700; 
+}
+
+.park-hotel{
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 150px;
+    margin: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+}
+
+.best-offer{
+    
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    margin: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+}
+
+
+.btn-primary {
+    background: #FD6E0A;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px; 
+}
+
+main section {
+    margin-top: 140px;
+    
+    
+}
+
+
+
+.red-zone {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.red-zones {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.new {
+    color: #070211;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.best-offer-div {
+    display: flex;
+    
+   
+}
+
+
+.best-offer-title {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.comming-soon-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+    margin-top: 10px;
+}
+
+.offer-description {
+    color: #070211;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300; 
+    margin-top: 10px;
+}
+
+.ellipse1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.functional-section {
+    display: flex;
+    
+}
+
+
+
+.functional-title {
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500; 
+    margin-bottom: 0;
+}
+
+.holi {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.functional-sale {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    margin-bottom: 0;
+
+}
+
+.functional-para {
+    text-align: center;
+    padding: 30px 150px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500; 
+    margin-top: 10px;
+}
+
+
+.banner-pic {
+    background-image: url(../assets/rectangle1.png);
+    background-repeat: no-repeat;
+  /*  background-position: bottom right;    */
+    float: right;
+    width: 429px;
+    height: 433px; 
+    border-radius: 16px 16px 0px 0px; 
+    margin-right: 50px;
+}
+
+
+.functional-discount {
+    margin-right: 30px;
+}
+
+.off {      /* 50% off class */
+    display: inline;
+    float: right;
+    margin-right: 0px;
+}
+
+.grid-container {
+    display: inline-flex;
+    column-gap: 50px;
+    row-gap: 50px;
+    
+
+}
+
+.griditem {
+    border-radius: 5px 5px 5px 5px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.newsletter {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 150px;
+    margin: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+}
+
+.footersection {
+    
+    justify-content: center;
+    gap: 100px;
+    background: #070211;
+    padding: 130px 200px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.footercolumn {
+    width: 110%;
+}
+
+.footerh1{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.footerpara {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
